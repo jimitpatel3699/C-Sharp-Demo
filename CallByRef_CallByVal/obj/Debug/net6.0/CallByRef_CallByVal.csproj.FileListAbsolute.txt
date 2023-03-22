@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\bin\Debug\net6.0\CallByRef_CallByVal.exe
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\bin\Debug\net6.0\CallByRef_CallByVal.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\bin\Debug\net6.0\CallByRef_CallByVal.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\bin\Debug\net6.0\CallByRef_CallByVal.dll
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\bin\Debug\net6.0\CallByRef_CallByVal.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.dll
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\refint\CallByRef_CallByVal.dll
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\CallByRef_CallByVal.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\CallByRef_CallByVal\obj\Debug\net6.0\ref\CallByRef_CallByVal.dll

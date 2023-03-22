@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\bin\Debug\net6.0\2D_rectangularArray.exe
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\bin\Debug\net6.0\2D_rectangularArray.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\bin\Debug\net6.0\2D_rectangularArray.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\bin\Debug\net6.0\2D_rectangularArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\bin\Debug\net6.0\2D_rectangularArray.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\refint\2D_rectangularArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\2D_rectangularArray.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_rectangularArray\obj\Debug\net6.0\ref\2D_rectangularArray.dll

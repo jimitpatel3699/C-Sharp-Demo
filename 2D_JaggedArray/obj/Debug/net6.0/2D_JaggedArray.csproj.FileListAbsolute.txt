@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\bin\Debug\net6.0\2D_JaggedArray.exe
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\bin\Debug\net6.0\2D_JaggedArray.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\bin\Debug\net6.0\2D_JaggedArray.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\bin\Debug\net6.0\2D_JaggedArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\bin\Debug\net6.0\2D_JaggedArray.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\refint\2D_JaggedArray.dll
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\2D_JaggedArray.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\2D_JaggedArray\obj\Debug\net6.0\ref\2D_JaggedArray.dll

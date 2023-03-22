@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\bin\Debug\net6.0\copyConstructor.exe
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\bin\Debug\net6.0\copyConstructor.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\bin\Debug\net6.0\copyConstructor.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\bin\Debug\net6.0\copyConstructor.dll
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\bin\Debug\net6.0\copyConstructor.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.dll
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\refint\copyConstructor.dll
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\copyConstructor.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\copyConstructor\obj\Debug\net6.0\ref\copyConstructor.dll

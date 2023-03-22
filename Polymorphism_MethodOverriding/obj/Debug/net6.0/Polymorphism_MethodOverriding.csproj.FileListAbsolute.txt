@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\bin\Debug\net6.0\Polymorphism_MethodOverriding.exe
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\bin\Debug\net6.0\Polymorphism_MethodOverriding.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\bin\Debug\net6.0\Polymorphism_MethodOverriding.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\bin\Debug\net6.0\Polymorphism_MethodOverriding.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\bin\Debug\net6.0\Polymorphism_MethodOverriding.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\refint\Polymorphism_MethodOverriding.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\Polymorphism_MethodOverriding.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Polymorphism_MethodOverriding\obj\Debug\net6.0\ref\Polymorphism_MethodOverriding.dll

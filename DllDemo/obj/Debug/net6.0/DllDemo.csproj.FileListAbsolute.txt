@@ -1,0 +1,12 @@
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\bin\Debug\net6.0\DllDemo.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\bin\Debug\net6.0\DllDemo.dll
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\bin\Debug\net6.0\DllDemo.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.dll
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\refint\DllDemo.dll
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\DllDemo.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\DllDemo\obj\Debug\net6.0\ref\DllDemo.dll

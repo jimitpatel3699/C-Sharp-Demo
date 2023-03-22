@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\bin\Debug\net6.0\Methods_Parametrs.exe
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\bin\Debug\net6.0\Methods_Parametrs.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\bin\Debug\net6.0\Methods_Parametrs.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\bin\Debug\net6.0\Methods_Parametrs.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\bin\Debug\net6.0\Methods_Parametrs.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\refint\Methods_Parametrs.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\Methods_Parametrs.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Methods_Parametrs\obj\Debug\net6.0\ref\Methods_Parametrs.dll

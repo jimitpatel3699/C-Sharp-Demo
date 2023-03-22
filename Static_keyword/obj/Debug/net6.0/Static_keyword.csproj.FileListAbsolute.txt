@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\bin\Debug\net6.0\Static_keyword.exe
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\bin\Debug\net6.0\Static_keyword.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\bin\Debug\net6.0\Static_keyword.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\bin\Debug\net6.0\Static_keyword.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\bin\Debug\net6.0\Static_keyword.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\refint\Static_keyword.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\Static_keyword.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Static_keyword\obj\Debug\net6.0\ref\Static_keyword.dll

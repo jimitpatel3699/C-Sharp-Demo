@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\bin\Debug\net6.0\Mutable_imMutable.exe
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\bin\Debug\net6.0\Mutable_imMutable.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\bin\Debug\net6.0\Mutable_imMutable.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\bin\Debug\net6.0\Mutable_imMutable.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\bin\Debug\net6.0\Mutable_imMutable.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\refint\Mutable_imMutable.dll
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\Mutable_imMutable.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\Mutable_imMutable\obj\Debug\net6.0\ref\Mutable_imMutable.dll

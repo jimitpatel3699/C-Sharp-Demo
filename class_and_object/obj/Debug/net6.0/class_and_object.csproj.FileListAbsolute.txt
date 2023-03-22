@@ -1,0 +1,15 @@
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\bin\Debug\net6.0\class_and_object.exe
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\bin\Debug\net6.0\class_and_object.deps.json
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\bin\Debug\net6.0\class_and_object.runtimeconfig.json
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\bin\Debug\net6.0\class_and_object.dll
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\bin\Debug\net6.0\class_and_object.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.csproj.AssemblyReference.cache
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.AssemblyInfoInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.AssemblyInfo.cs
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.csproj.CoreCompileInputs.cache
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.dll
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\refint\class_and_object.dll
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.pdb
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\class_and_object.genruntimeconfig.cache
+C:\Users\jimit\Desktop\.net\class_and_object\class_and_object\obj\Debug\net6.0\ref\class_and_object.dll
